@@ -1,0 +1,8 @@
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/repository/StudentRepository.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/repository/CommentaireRepository.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/controller/CommentaireController.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/model/Commentaire.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/exception/RessourceNotFoundException.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/model/Student.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/GatherApplication.java
+/Users/chadbarbier/Downloads/apiReseauSocial/java-api-docker/src/main/java/com/apiRest/Gather/controller/StudentController.java
